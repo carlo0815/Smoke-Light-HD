@@ -1,5 +1,6 @@
 <skin>
   <copyright>
+ <!--  Smoke-Light-HD-4NFR-by-stein17 -->
     <orginal author="stein17" version="2.0" name="Smoke-Light-HD-4NFR-by-stein17" />
     <support supporturl="http://www.nachtfalke.biz/f742-nfr-image/30297-zwei-neue-skins-smoke-light-hd-digi-4all-stein17.html" />
     <license Freeware="This skin is Freeware. You can modify and use it in other images." />
@@ -1000,6 +1001,7 @@ MultiContentEntryText(pos = (10, 2), size = (550, 35), flags = RT_HALIGN_LEFT|RT
     <widget name="rt2" position="352,519" size="640,30" font="Regular;18" valign="center" transparent="1" foregroundColor="yellow" />
     <ePixmap alphatest="blend" pixmap="Smoke-Light-HD-4NFR-by-stein17/images/flash.png" position="58,89" size="100,100" />
     <ePixmap alphatest="blend" pixmap="Smoke-Light-HD-4NFR-by-stein17/images/usb.png" position="53,313" size="100,100" />
+
     <ePixmap alphatest="blend" pixmap="Smoke-Light-HD-4NFR-by-stein17/images/cf.png" position="553,89" size="100,100" />
     <ePixmap alphatest="blend" pixmap="Smoke-Light-HD-4NFR-by-stein17/images/hardisk.png" position="558,313" size="100,100" />
     <eLabel name="new eLabel" position="50,200" size="900,1" foregroundColor="grey" backgroundColor="grey" />
@@ -2676,6 +2678,7 @@ MultiContentEntryPixmapAlphaTest(pos = (5, 58), size = (0, 0), png = 5), # index
     <widget source="global.CurrentTime" render="Label" position="11,29" size="100,30" zPosition="1" font="Regular;28" halign="right" backgroundColor="un11363d51" shadowColor="black" shadowOffset="-2,-2" transparent="1">
       <convert type="ClockToText">Default</convert>
     </widget>
+
     <widget source="key_red" render="Label" position="42,620" size="215,28" zPosition="1" font="Regular; 22" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
     <widget source="key_green" render="Label" position="42,660" size="215,28" zPosition="1" font="Regular; 22" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
     <widget source="key_yellow" render="Label" position="288,620" size="215,28" zPosition="1" font="Regular; 22" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
