@@ -1,2 +1,2 @@
 # Smoke-Light-HD-by-stein17
-stein17 Skin1
+stein17 Skin
